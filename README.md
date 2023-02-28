@@ -16,8 +16,8 @@ desktop screenshot (./screenshot/four-card-feature-section-master-desktop-screen
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/DanielaMichelle/Four-card-feature-section-master
+- Live Site URL: https://danielamichelle.github.io/Four-card-feature-section-master/
 
 
 ### Built with
