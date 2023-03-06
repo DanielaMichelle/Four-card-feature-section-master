@@ -34,18 +34,16 @@ html {
     margin-bottom: 50px;
 }
 
-.presentation h1 {
-    font-size: 3rem;
-}
-
 .presentation__title1 {
     font-weight: 200;
+    font-size: 3rem;
 }
 
 .presentation__title2 {
     font-weight: 600;
     color: var(--very-dark-blue);
     margin-bottom: 15px;
+    font-size: 3rem;
 }
 
 .cards-container {
